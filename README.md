@@ -16,6 +16,8 @@ The purpose of this analysis was to create a report with the results of the elec
   - Raymon Anthony Doane recieved 3.1% of the votes for a total of 11,606
 * The winner of the election was Diana DeGett with a total vote count of 272,892, which was 73.8% of the votes
 
+![Election Results](analysis/election_analysis.txt)
+
 ## Resources
 - Data Source: election_results.csv
 - Software: Python 3.8.5 64-bit, Visual Studio Code, 1.47.3
