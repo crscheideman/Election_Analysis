@@ -1,4 +1,4 @@
-# Election_Analysis
+# Election Analysis
 
 ## Overview of Election Audit
 The purpose of this analysis was to create a report with the results of the election and breaking the data down to understand more about the election.
